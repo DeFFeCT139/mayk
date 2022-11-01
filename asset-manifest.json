@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mayk/static/css/main.b573d65a.css",
+    "main.js": "/mayk/static/js/main.b84080a8.js",
+    "static/js/787.c09572f6.chunk.js": "/mayk/static/js/787.c09572f6.chunk.js",
+    "static/media/nev_22934_z.png": "/mayk/static/media/nev_22934_z.7d854bb93fcb4081666d.png",
+    "static/media/1642362073_49-almode-ru-p-krasivii-fon-s-serdechkami-55.jpg": "/mayk/static/media/1642362073_49-almode-ru-p-krasivii-fon-s-serdechkami-55.b3e913bb5bccff499b52.jpg",
+    "index.html": "/mayk/index.html",
+    "main.b573d65a.css.map": "/mayk/static/css/main.b573d65a.css.map",
+    "main.b84080a8.js.map": "/mayk/static/js/main.b84080a8.js.map",
+    "787.c09572f6.chunk.js.map": "/mayk/static/js/787.c09572f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b573d65a.css",
+    "static/js/main.b84080a8.js"
+  ]
+}
